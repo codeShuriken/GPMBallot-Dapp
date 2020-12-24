@@ -1,0 +1,17 @@
+{
+  "name": "gpmballot-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "truffle-hdwallet-provider": "1.0.5"
+  },
+  "author": "Gowtham Vuppala",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
